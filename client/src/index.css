@@ -1,0 +1,53 @@
+html,
+body,.App,#root {
+  height: 100%;
+}
+
+body #login {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 401px;
+}
+.form-signin form{
+    width: 250px;
+    margin: 0px auto;
+}
+.forgotpass,.forgotpass:hover{
+  color:var(--bs-body-color)
+}
+.bgcolor,.btn-red{
+  background: #C81D1D;
+}
+.btn-red{
+  color: #fff;
+}
+.btn-red:hover{
+  border: 1px solid #C81D1D;
+  color: #fff;
+  background: #C81D1D;
+}
+.colorred{
+  color:#C81D1D
+}
+.f-12{
+  font-size: 12px;
+}
+.navbar{
+  padding: 0;
+}
+.navbar li{
+  padding: 0px 20px;
+  border-right: 1px solid #fff;
+}
+footer{
+  border-top:2px solid #eee;
+}
+footer .container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}

@@ -1,0 +1,18 @@
+[
+	{
+		"id":1,
+		"title":"IT"
+	},
+	{
+		"id":2,
+		"title":"Stationary"
+	},
+	{
+		"id":3,
+		"title":"Furniture"
+	},
+	{
+		"id":4,
+		"title":"Medical"
+	}
+]
